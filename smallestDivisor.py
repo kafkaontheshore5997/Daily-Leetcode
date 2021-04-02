@@ -1,3 +1,6 @@
+# LC 1283. Apr/1/2021
+# Binary search on the answer set 
+
 import math
 class Solution(object):
     def smallestDivisor(self, nums, threshold):
@@ -23,5 +26,4 @@ class Solution(object):
             total += math.ceil(float(num) / mid)
         return total <= threshold
       
-# LC 1283
-# Binary search on the answer set 
+

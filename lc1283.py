@@ -1,4 +1,5 @@
-# LC 1283. Apr/1/2021
+# LC 1283 - Find the Smallest Divisor Given a Threshold
+# Apr/1/2021
 # Binary search on the answer set 
 
 import math
